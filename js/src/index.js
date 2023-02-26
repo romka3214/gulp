@@ -1,4 +1,4 @@
 window.addEventListener('DOMContentLoaded', (event) => {
-  alert('все робит');
+  let v = 'все робит'
 });
 

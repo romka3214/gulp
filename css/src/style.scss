@@ -3,16 +3,3 @@ body {
     font-family: "UbuntuCondensed-Regular", sans-serif;
     font-weight: normal;
 }
-
-html.lock {
-    overflow: hidden;
-}
-
-.element::-webkit-scrollbar {
-    width: 0;
-}
-
-/*Убрать полосу прокрутки для всей страницы*/
-::-webkit-scrollbar {
-    width: 0;
-}

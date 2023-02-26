@@ -1,1 +1,5 @@
-<h1>Ща напишу ридми</h1>
+<h2>install</h2>
+<ol>
+    <li>npm i</li>
+    <li>gulp serve</li>
+</ol>
