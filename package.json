@@ -1,0 +1,35 @@
+{
+  "name": "wp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romka3214/wordpressModulTelkom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romka3214/wordpressModulTelkom/issues"
+  },
+  "homepage": "https://github.com/romka3214/wordpressModulTelkom#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-px2rem-converter": "^1.5.9",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^5.1.0"
+  },
+  "dependencies": {
+    "aos": "^3.0.0-beta.6",
+    "sass": "^1.54.9"
+  }
+}
